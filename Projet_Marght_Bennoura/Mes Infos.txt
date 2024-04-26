@@ -1,0 +1,44 @@
+------------------- Vos informations -------------------
+ALIMENTATION 
+Taux de repas à base de boeuf : (Format : un chiffre entre 0 et 1, ex : "0.24")
+(ecrivez juste en dessous)
+1
+Taux de repas végétariens : (Format : un chiffre entre 0 et 1, ex : "0.24")
+(ecrivez juste en dessous)
+0
+DEPENSES
+Le montant de vos dépenses annuelles : (Format : un chiffre)
+(ecrivez juste en dessous)
+10
+APPAREILS NUMERIQUES
+Avez-vous une télevison ? (Format : oui/non, ex "non")
+(ecrivez juste en dessous)
+oui
+Avez-vous un ordinateur? (Format : oui/non, ex "oui")
+(ecrivez juste en dessous)
+non
+Avez-vous une tablette? (Format : oui/non, ex "non")
+(ecrivez juste en dessous)
+oui
+Avez-vous un smartphone? (Format : oui/non, ex "non")
+(ecrivez juste en dessous)
+oui
+Avez-vous une console? (Format : oui/non, ex "non")
+(ecrivez juste en dessous)
+oui
+LOGEMENT(S)
+La superficie et la classe énergétique de votre/vos logement/s : 
+(si vous avez plusieurs logements, séparez les informations de chacun de vos logements par un retour à la ligne)
+(Format : un chiffre et une lettre entre A et G compris, séparé d'un espace, ex : "120 B" pour un logement de classe B de superficie 120)
+(ecrivez juste en dessous)
+120 B
+12 C
+0 A
+
+VOITURE(S)
+La superficie et la classe énergétique de votre/vos logement/s : 
+(si vous avez plusieurs voitures, séparez les informations de chacune de vos voitures par un retour à la ligne)
+(Format : "petite/grande nombre_de_km_derniere_année ancienneté" ex : "petite 1000 5" pour une petite voiture que vous avez depuis 5 ans et avec laquelle vous avez roulé 1000 km l'année dernière)
+(ecrivez juste en dessous)
+petite 100 1
+grande 100000 4
